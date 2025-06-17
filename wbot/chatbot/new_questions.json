@@ -1,0 +1,189 @@
+[
+    {
+        "topic": "kuweka akiba",
+        "questions": [
+            {
+                "question": "Leo tutaongelea kuhusu umuhimu wa kuweka akiba. Je unajua kuweka akiba ni nini?",
+                "answer_yes": "Vizuri👍 Uwekaji wa akiba ni mchakato wa kutenga sehemu ya kipato chako kwa matumizi ya baadaye.  Ni Kuhifadhi sehemu ya pesa zako badala ya kuzitumia zote.",
+                "answer_no": "Uwekaji wa akiba ni mchakato wa kutenga sehemu ya kipato chako kwa matumizi ya baadaye.  Ni Kuhifadhi sehemu ya pesa zako badala ya kuzitumia zote."
+            },
+            {
+                "question": "Je! Unajua umuhimu wa kuweka akiba?",
+                "answer_yes": "Vizuri👍 Ni kweli kabisa, Kuweka akiba kunakusaidia kuwa na pesa za dharura pale unapohitaji, kama vile ukipata ugonjwa au hitaji lingine la haraka. Pia, inakusaidia kufanikisha malengo yako kama kununua kitu kikubwa, kusoma zaidi, au hata kuanzisha biashara. Unaweza kuanza kuweka akiba kidogo kidogo.\nWahenga wanasema, Akiba Haiozi! ",
+                "answer_no": "Ngoja nikujuze! Kuweka akiba kunakusaidia kuwa na pesa za dharura pale unapohitaji, kama vile ukipata ugonjwa au hitaji lingine la haraka. Pia, inakusaidia kufanikisha malengo yako kama kununua kitu kikubwa, kusoma zaidi, au hata kuanzisha biashara. Unaweza kuanza kuweka akiba kidogo kidogo.\nWahenga wanasema, Akiba Haiozi!"
+            },
+            {
+                "question": "Je, ungependa kujua zaidi, kuhusu njia mbalimbali za kuweka akiba?",
+                "answer_yes": "safi👏 Zipo njia mbali mbali za kuweka akiba kama vile:\n1.Kufungua Akaunti ya benki\n2.Kutunza kwa njia ya simu za mkononi\n3.Kwa kutumia vikundi vya Akiba na Mikopo (VICOBA)\n4.Kuhifadhi pesa taslimu. ",
+                "answer_no": "Zifuatazo ni njia mbali mbali za kuweka akiba: \n1.Fungua Akaunti ya benki: Unashauriwa kufungua kaunti ya benki mahususi kwa kujiwekea akiba huku ukiwa na malengo ya kiasi cha fedha unachotaka kutunza kwa kipindi fulani. Akaunti za benki ziko za aina mbalimbali. Ipo ya kawaida ya kutunza fedha (Saving account) ambayo unaweza kuweka na kutoa kiasi chochote wakati wowote. Pia unaweza kufungua akaunti ambayo utaweka pesa kwa muda fulani ili ukitoa upate riba (fixed account) au akaunti ya cheki ambayo unapata kitabu cha cheki kufanya miamala mbalimbali ikiwemo kuhamisha pesa kutoka akaunti moja hadi nyingine. Njia hii ya kuweka pesa benki ni salama na ya uhakika inakuondolea ushawishi wa kutumia pesa ukilinganisha na ya kutunza pesa nyumbani. Hata hivyo, ili malengo yako yatimie unahitaji kijitia nidhamu ya kuweka pesa kila unapopata au kwa muda uliojiwekea.\n2.Tunza kwa njia ya simu za mkononi: Kutokana na maendeleo ya sayansi na teknolojia, simu za mkononi ni zaidi ya kifaa cha mawasiliano. Kwa wale ambao wanaona ni tabu kuweka pesa benki, njia hii inawafaa zaidi. Tumia huduma za kuweka na kutoa pesa za mtandao wako wa simu (mobile money) kuweka akiba ili ikufae wakati wa dharula. Njia hii ni sawa na ile ya kutunza pesa nyumbani lakini zinakaa kwenye simu yako na unaweza kuzitoa wowote na ukazitumia utakavyo. Inahitaji tahadhari na nia ya dhati kuhakikisha kile unachohifadhi hakitoki isipokuwa kama kimetimiza malengo uliyojiwekea.\n3.Vikundi vya Akiba na Mikopo (VICOBA): Hivi ni vikundi vya watu wanaojumuika ili kuweka akiba kwa pamoja na kukopeshana kwa masharti nafuu. Ni maarufu katika jamii nyingi na husaidia kukuza nidhamu ya kuweka akiba kwa kushiriki na wenzako.\n4.Hifadhi Pesa taslimu: Pesa taslimu hujumuisha pesa zote za sarafu na noti ambazo zinaonekana au unaweza kuzishika. Hii ni njia ya kuweka akiba ambapo huchukuliwa kama njia ya zamani na iliyopitwa na wakati. Unaweza kutunza pesa zako nyumbani hasa kwenye kibubu kwa kipindi fulani kabla hujazitumia. Hutumiwa zaidi na watu ambao wako mbali na benki au huduma za fedha kwa njia ya simu za mkononi."
+            },
+            {
+                "question": "Je, wajua benki hutoa akaunti za aina gani zinazolenga kuweka akiba?",
+                "answer_yes": "Safi👍Benki hutoa akaunti za kawaida za akiba, akaunti za muda maalum, akaunti za akiba za watoto, na akaunti maalum za akiba kwa malengo kama vile akiba ya nyumba au elimu.",
+                "answer_no": "Ngoja nikufahamishe! Benki hutoa akaunti za kawaida za akiba, akaunti za muda maalum, akaunti za akiba za watoto, na akaunti maalum za akiba kwa malengo kama vile akiba ya nyumba au elimu."
+            },
+            {
+                "question": "Je unafahamu akaunti za akiba za watoto zinapatikanaje na zina faida gani kwa familia?",
+                "answer_yes": "Sawa kabisa✊! Akaunti za akiba za watoto hutolewa na benki ili kuwasaidia wazazi kuwekeza kwa ajili ya mustakabali wa watoto wao. Faida ni pamoja na viwango vya chini vya riba na usalama wa fedha za mtoto.",
+                "answer_no": "Akaunti za akiba za watoto hutolewa na benki ili kuwasaidia wazazi kuwekeza kwa ajili ya mustakabali wa watoto wao. Faida ni pamoja na viwango vya chini vya riba na usalama wa fedha za mtoto."
+            },
+            {
+                "question": "Je unajua faida ya akaunti za muda maalum (fixed deposits) ni ipi katika kuweka akiba?",
+                "answer_yes": "Vizuri👍Akaunti za muda maalum hutoa kiwango cha juu cha riba kuliko akaunti za kawaida za akiba, lakini fedha haziwezi kutolewa hadi muda uliowekwa ukamilike.",
+                "answer_no": "Akaunti za muda maalum hutoa kiwango cha juu cha riba kuliko akaunti za kawaida za akiba, lakini fedha haziwezi kutolewa hadi muda uliowekwa ukamilike."
+            },
+            {
+                "question": "Je, unafahamu akaunti za akiba za kidigitali ni nini, na zinatofautianaje na akaunti za kawaida?",
+                "answer_yes": "Vizuri👏, Akaunti za akiba za kidigitali zinasimamiwa kupitia simu au mtandao, na hazihitaji kwenda benki. Zinatoa urahisi zaidi na mara nyingi zinahusisha ada ndogo.",
+                "answer_no": "Akaunti za akiba za kidigitali zinasimamiwa kupitia simu au mtandao, na hazihitaji kwenda benki. Zinatoa urahisi zaidi na mara nyingi zinahusisha ada ndogo."
+            },
+            {
+                "question": "Je unajua, faida za kuweka akiba kidigitali ni zipi ukilinganisha na njia za jadi?",
+                "answer_yes": "Vizuri👍Faida ni urahisi wa kufanya miamala kwa wakati wowote, uwazi katika ufuatiliaji wa akiba, na gharama ndogo za huduma za kibenki.",
+                "answer_no": "Faida ni urahisi wa kufanya miamala kwa wakati wowote, uwazi katika ufuatiliaji wa akiba, na gharama ndogo za huduma za kibenki."
+            },
+            {
+                "question": "Je unajua, benki hutoa programu gani za simu zinazowezesha kuweka akiba kidigitali?",
+                "answer_yes": "Vema✊ Benki nyingi hutoa programu za simu kama CRDB SimBanking, NMB Mkononi, na NBC Kiganjani, ambazo zinasaidia kuweka akiba kidigitali.",
+                "answer_no": "Benki nyingi hutoa programu za simu kama CRDB SimBanking, NMB Mkononi, na NBC Kiganjani, ambazo zinasaidia kuweka akiba kidigitali."
+            },
+            {
+                "question": "Je unafahamu, usalama wa fedha kwenye akaunti za kidigitali ukoje, na benki zinafanyaje kuhakikisha hilo?",
+                "answer_yes": "safi! Benki zinatumia teknolojia ya usimbaji wa taarifa (encryption), uthibitisho wa hatua mbili (two-factor authentication), na programu za usalama kulinda fedha za wateja.",
+                "answer_no": "Benki zinatumia teknolojia ya usimbaji wa taarifa (encryption), uthibitisho wa hatua mbili (two-factor authentication), na programu za usalama kulinda fedha za wateja."
+            },
+            {
+                "question": "Je unajua, ni hatua gani mtu anapaswa kuchukua ili kufungua akaunti ya akiba kidigitali?",
+                "answer_yes": "Safi sana👍 Mtu anahitaji kupakua programu ya benki, kujisajili kwa kutumia kitambulisho rasmi, na kufuata maelekezo ya kufungua akaunti kwa njia ya mtandao.",
+                "answer_no": "Mtu anahitaji kupakua programu ya benki, kujisajili kwa kutumia kitambulisho rasmi, na kufuata maelekezo ya kufungua akaunti kwa njia ya mtandao."
+            }
+        ]
+    },
+    {
+        "topic": "kuwekeza",
+        "questions": [
+            {
+                "question": "Leo tutaongelea kuhusu umuhimu wa kuwekeza. Je, unafahamu uwekezaji ni nini?",
+                "answer_yes": "Vizuri! Uwekezaji ni mchakato wa kutumia rasilimali, hasa fedha kwa lengo la kupata faida au manufaa ya baadaye.",
+                "answer_no": "Ngoja nikufahamishe, Uwekezaji ni mchakato wa kutumia rasilimali, hasa fedha kwa lengo la kupata faida au manufaa ya baadaye."
+            },
+            {
+                "question": "Je, Unafahamu umuhimu wa uwekezaji?",
+                "answer_yes": "Vizuri sana! Hakika uwekezaji ni muhimu kwa kuwa unasaidia katika kukuza Uchumi wa mtu binafsi na taifa kwa ujumla, pia ni muhimu katika kutengeneza mipango ya baadaye, uwekezaji huleta faida na kukuza utajiri,Kupambana na mfumuko wa bei  na husaidia kuongeza uwezekano wa kukabiliana na matarajio ya kidunia. Uwekezaji ni nyenzo muhimu sana katika kuhakikisha kuna ustawi wa kifedha na usalama wa baadaye.",
+                "answer_no": "Nipo kukufahamisha,Uwekezaji ni muhimu kwa kuwa unasaidia katika kukuza Uchumi wa mtu binafsi na taifa kwa ujumla, pia ni muhimu katika kutengeneza mipango ya baadaye, uwekezaji huleta faida na kukuza utajiri,Kupambana na mfumuko wa bei  na husaidia kuongeza uwezekano wa kukabiliana na matarajio ya kidunia. Uwekezaji ni nyenzo muhimu sana katika kuhakikisha kuna ustawi wa kifedha na usalama wa baadaye."
+            },
+            {
+                "question": "Je, Ungependa kujua zaidi, kuhusu njia au namna mbalimbali za kuwekeza?",
+                "answer_yes": "Vizuri👍 Hizi ni baadhi ya njia mbali mbali za kuwekeza:\n1.Uwekezaji katika Hisa\n2.Uwekezaji katika dhamana\n3.Uwekezaji katika Hatifungani\n4.Uwekezaji katika mali isiyohamishika\n5.Uwekezaji katika soko la pesa\n6.Uwekezaji kwenye asilimia za pamoja (Mutual Funds).",
+                "answer_no": "Zifuatazo ni njia au namna mbalimbali za uwekezaji:\n1.Uwekezaji katika Hisa: Hisa ni sehemu ya umiliki katika kampuni au shirika. Hisa zinaweza kuuzwa au kununuliwa kwenye masoko ya hisa, na thamani yake inaweza kubadilika kulingana na utendaji wa kampuni na hali ya soko.Mwekezaji anayenunua hisa basi ananunua haki ya kumiliki kampuni. Stahili za mwenye hisa ni Pamoja na kushiriki katika kutoa maamuzi ya kampuni katika mkutano mkuu wa wanahisa na kupata gawio litokanalo na faida.Ana haki pia ya kuuza hisa zake kwa faida pale ambapo kuna ongezeko la thamani ya hisa\n2.Uwekezaji katika dhamana: Dhamana ni hati ya kifedha inayothibitisha deni la kampuni au serikali, na inatoa riba kwa wawekezaji.Ni mkopo wa muda mrefu unaotolewa na serikali au kampuni ambapo mwekezaji anapata mapato ya riba  kwa kipindi cha mkataba wa dhamana.\n3.Uwekezaji katika Hatifungani:Hatifungani ni aina ya dhamana au hati inayotolewa na taasisi kama vile serikali au kampuni, ambapo mtumaji wa dhamana anatoa kiasi fulani cha fedha kwa lengo la kupokea riba na kurudishiwa fedha alizowekeza baada ya muda fulani. Mtu akiwekeza kwenye hatifungani, yeye hupewa riba kila mwaka au kwa kipindi fulani, na baada ya kumalizika kwa kipindi cha hatifungani, anarejeshewa kiwango cha fedha alichowekeza (au “principal”).\n4.Uwekezaji katika mali isiyohamishika: Mali isiyohamishika inaweza kuwa ni nyumba, viwanja, majengo ya biashara, au ardhi. Uwekezaji huu unahusisha kumiliki mali halisi na kuweza kupata mapato kwa njia mbalimbali kama kupangisha au kuuza kwa bei kubwa zaidi baada ya muda\n5.Uwekezaji katika Soko la pesa: Huu ni uwekezaji wa muda mfupi, mara nyingi kwa njia ya amana za benki au vyombo vya kifedha vinavyolipa riba ndogo lakini ni salama.\n6.Uwekezaji kwenye Asilimia za Pamoja (Mutual Funds): Hii ni njia ya uwekezaji ambapo fedha za wengi zinakusanywa na kuwekeza katika aina mbalimbali za mali kama hisa, dhamana, na mali isiyohamishika."
+            },
+            {
+                "question": "Je Unafahamu, nini kinachofanya uwekezaji kuwa mzuri?",
+                "answer_yes": "Safi! Uwekezaji mzuri unategemea utafiti, usimamizi mzuri wa  kudhibiti hatari, na malengo ya muda mrefu,muda, utoaji wa aina mbalimbali za uwekezaji,uwezo wa kuingiza rasilimali zaidi na udhibiti bora wa fedha.",
+                "answer_no": "Ngoja nikujuze,Uwekezaji mzuri unategemea utafiti, usimamizi mzuri wa kudhibiti hatari, na malengo ya muda mrefu,muda, utoaji wa aina mbalimbali za uwekezaji,uwezo wa kuingiza rasilimali zaidi na udhibiti bora wa fedha."
+            },
+            {
+                "question": "Je Wajua,ni jinsi gani unaweza kuanza kuwekeza?",
+                "answer_yes": "Vizuri!Anza na kujifunza na kutafuta ushauri wa kitaalamu, tengeneza bajeti na uhifadhi kwa kupanga vizuri matumizi yako,tathmini lengo lako la kifedha kama ni kupata faida/ mapato ya muda mrefu au muda mfupi na pia fanya utafiti wa kifedha kujua uhusiano kati ya hatari na faida pamoja na muda wa uwekezaji.",
+                "answer_no": "Anza na kujifunza na kutafuta ushauri wa kitaalamu, tengeneza bajeti na uhifadhi kwa kupanga vizuri matumizi yako,tathmini lengo lako la kifedha kama ni kupata faida/ mapato ya muda mrefu au muda mfupi na pia fanya utafiti wa kifedha kujua uhusiano kati ya hatari na faida pamoja na muda wa uwekezaji."
+            },
+            {
+                "question": "Je unafahamu,wakati sahihi wa kuwekeza ni upi?",
+                "answer_yes": "Vizuri sana! Wakati sahihi wa kuwekeza unaweza kutegemea mambo kadhaa, hakuna anayeweza kutabiri wakati halisi wa kuwekeza. Hata hivyo, kuna vipengele muhimu vya kuzingatia ili kujua wakati bora wa kuanza kuwekeza kama vile: Hali ya soko ikihusisha mabadiliko ya kiuchumi na kisiasa,hali yako ya kifedha,mabadiliko katika mipango yako ya kifedha, na mabadiliko ya Teknolojia.Kwa kifupi fanya utafiti wa kutosha kabla ya kuwekeza.",
+                "answer_no": "Wakati sahihi wa kuwekeza unaweza kutegemea mambo kadhaa, hakuna anayeweza kutabiri wakati halisi wa kuwekeza. Hata hivyo, kuna vipengele muhimu vya kuzingatia ili kujua wakati bora wa kuanza kuwekeza kama vile: Hali ya soko ikihusisha mabadiliko ya kiuchumi na kisiasa,hali yako ya kifedha,mabadiliko katika mipango yako ya kifedha, na mabadiliko ya Teknolojia.Kwa kifupi fanya utafiti wa kutosha kabla ya kuwekeza."
+            },
+            {
+                "question": "Je wajua, umuhimu kuwekeza kwa muda mrefu?",
+                "answer_yes": "Vema sana👏 Uwekezaji wa muda mrefu mara nyingi unatoa fursa bora za kurudisha faida  kwa sababu ya kuongezeka kwa thamani na kupunguza athari za mabadiliko ya soko.Hata hivyo, kuna faida na changamoto katika aina zote za uwekezaji, Ni muhimu kufikiria kuhusu malengo yako ya kifedha na jinsi unavyotaka kushughulikia uwekezaji wako.",
+                "answer_no": "Uwekezaji wa muda mrefu mara nyingi unatoa fursa bora za kurudisha faida  kwa sababu ya kuongezeka kwa thamani na kupunguza athari za mabadiliko ya soko.Hata hivyo, kuna faida na changamoto katika aina zote za uwekezaji, Ni muhimu kufikiria kuhusu malengo yako ya kifedha na jinsi unavyotaka kushughulikia uwekezaji wako."
+            },
+            {
+                "question": "Je wajua, unaweza kuwekeza bila uzoefu wa awali?",
+                "answer_yes": ": Ni kweli, unaweza kuwekeza bila uzoefu wa awali, lakini ni muhimu kujifunza na kufanya utafiti kabla ya kuwekeza ili kupata uelewa wa msingi kuhusu uwekezaji na jinsi soko linavyofanya kazi.",
+                "answer_no": "Ngoja nikujuze, unaweza kuwekeza bila uzoefu wa awali, lakini ni muhimu kujifunza na kufanya utafiti kabla ya kuwekeza ili kupata uelewa wa msingi kuhusu uwekezaji na jinsi soko linavyofanya kazi."
+            },
+            {
+                "question": "Je Wafahamu,unapaswa kuwekeza wapi?",
+                "answer_yes": "Ni sawa! Mahali bora pa kuanzia ni kwenye fedha za soko la pesa (kwa sababu zinakusaidia kujenga mfuko wa dharura na kukusanya pesa kwa ajili ya fursa) na fedha za orodha kwani zinakupa ufikiaji wa mtandao mkubwa wa hisa, zina hatari ndogo, na unaweza kuanza kwa kiasi kidogo",
+                "answer_no": "Mahali bora pa kuanzia ni kwenye fedha za soko la pesa (kwa sababu zinakusaidia kujenga mfuko wa dharura na kukusanya pesa kwa ajili ya fursa) na fedha za orodha kwani zinakupa ufikiaji wa mtandao mkubwa wa hisa, zina hatari ndogo, na unaweza kuanza kwa kiasi kidogo"
+            },
+            {
+                "question": "Je wajua, ni hatari gani zilizopo katika uwekezaji?",
+                "answer_yes": "Vizuri ngoja nikujuze zaidi! Hatari katika uwekezaji hutofautiana kulingana na aina ya uwekezaji. Aina ya hatari inayojulikana zaidi ni hatari ya soko, ambayo ni kupungua kwa thamani ya uwekezaji kutokana na mabadiliko ya kiuchumi au matukio mengine yanayoweza kuathiri soko zima. Hatari nyingine ya kawaida ni hatari ya mfumuko wa bei. Mfumuko wa bei hupunguza thamani ya pesa na uwezo wake wa kununua, hivyo kiasi kilekile cha pesa kinaweza kununua bidhaa chache zaidi kuliko hapo awali. Aina nyingine za hatari ni pamoja na hatari ya mkopo, hatari ya viwango vya riba, na hatari ya ukosefu wa ufanisi, kwa kuzingatia chache tu.",
+                "answer_no": "Hatari katika uwekezaji hutofautiana kulingana na aina ya uwekezaji. Aina ya hatari inayojulikana zaidi ni hatari ya soko, ambayo ni kupungua kwa thamani ya uwekezaji kutokana na mabadiliko ya kiuchumi au matukio mengine yanayoweza kuathiri soko zima. Hatari nyingine ya kawaida ni hatari ya mfumuko wa bei. Mfumuko wa bei hupunguza thamani ya pesa na uwezo wake wa kununua, hivyo kiasi kilekile cha pesa kinaweza kununua bidhaa chache zaidi kuliko hapo awali. Aina nyingine za hatari ni pamoja na hatari ya mkopo, hatari ya viwango vya riba, na hatari ya ukosefu wa ufanisi, kwa kuzingatia chache tu."
+            },
+            {
+                "question": "Je Unafahamu kuwa ukiwa na kiasi kidogo cha pesa ni vyema kuwekeza?",
+                "answer_yes": "Safi! Kuwekeza hata ukiwa na kiasi kidogo cha pesa kutajenga uthabiti, na utafaidika na nguvu ya riba ya mkusanyiko kadri muda unavyopita. Tunaamini unapaswa kuanza ulipo lakini uwe na lengo la kukuza kiasi chako cha uwekezaji kwa muda ili kiweze kufadhili mahitaji yako.",
+                "answer_no": "Ni vyema kuwekeza hata ukiwa na kiasi kidogo kwani kuwekeza hata ukiwa na kiasi kidogo cha pesa kutajenga uthabiti, na utafaidika na nguvu ya riba ya mkusanyiko kadri muda unavyopita. Tunaamini unapaswa kuanza ulipo lakini uwe na lengo la kukuza kiasi chako cha uwekezaji kwa muda ili kiweze kufadhili mahitaji yako."
+            },
+            {
+                "question": "Je unafahamu, upatikanaji wa hatifungani?",
+                "answer_yes": "Vizuri! Unaweza kununua hatifungani kupitia benki, wakala wa hisa, au moja kwa moja kwenye masoko ya hatifungani.",
+                "answer_no": "Unaweza kununua hatifungani kupitia benki, wakala wa hisa, au moja kwa moja kwenye masoko ya hatifungani."
+            },
+            {
+                "question": "Je wajua ubora wa kuwekeza katika hatifungani au hisa?",
+                "answer_yes": "Vema sana👏 Ubora wa uwekezaji unategemea malengo yako ya uwekezaji, uvumilivu wa hatari, na muda wa uwekezaji. Hatifungani ni bora kwa usalama wa fedha, wakati hisa zinaweza kutoa faida kubwa, lakini ina hatari kubwa zaidi.",
+                "answer_no": "Ubora wa uwekezaji unategemea malengo yako ya uwekezaji, uvumilivu wa hatari, na muda wa uwekezaji. Hatifungani ni bora kwa usalama wa fedha, wakati hisa zinaweza kutoa faida kubwa, lakini ina hatari kubwa zaidi."
+            },
+            {
+                "question": "Je wafahamu, faida ya kuwekeza kwenye hisa, hatifungani na vipande?",
+                "answer_yes": "Vizuri! Kwa ujumla dhamana za fedha (hisa, hatifungani, vipande) ni rasilimali ambazo zinagawanyika na kuuzika kwa urahisi. Kutokana na urahisi huo, dhamana zinaweza kuwekwa rehani kwa ajili ya kupata mkopo kutoka taasisi za fedha. Wawekezaji kwenye hisa wanapata gawio ikiwa kampuni itakuwa imepata faida.\n Wanahisa pia huweza kupata faida itokanayo na ongezeko la thamani iwapo bei ya hisa itaongezeka kwenye soko la hisa. Ongezeko la thamani ni tofauti ya bei ya kununulia hisa na bei ya kuuzia. Ikiwa bei ya kuuza ni ndogo kuliko bei ya kununulia, mwanahisa anapata hasara. Uwekezaji kwenye hisa hauna uhakika wa gawio kwa sababu gawio linategemea faida ya kampuni. Kwa upande wa hatifungani, riba inayolipwa inajulikana tangu mwanzo kwa sababu ni asilimia ya deni lote. Riba inayolipwa inaweza kuwa ya kubadilikabadilika au isiyobadilika. Wawekezaji kwenye hatifungani wanaoamua kukaa nazo hadi zitakapopevuka wanajua kiwango cha faida yao tangu wanapowekeza.\n Hatifungani pia zina ongezeko la thamani. Kwa upande wa vipande, faida inategemea aina ya mpango. Vipande ni sehemu ya umiliki kwenye mifuko ya uwekezaji wa pamoja. Tofauti na hisa vipande vinajumuisha mseto wa uwekezaji wa vitega uchumi mbali mbali ambavyo fedha zilikusanywa kwa ajili ya uwekezaji wa pamoja zinawekezwa.\n Kama ni mapango wa kukua, mwekezaji anategemea kufaidika kutokana na kukua kwa thamani ya vipande. Wawekezaji wanatakiwa kujua kuwa bei ya vipande inabadilika mara mwa mara. Kama mpango wa uwekezaji wa pamoja ni wa mapato, mwekezaji anafaidika kutokana na mgao wa mapato ya mpango huu.",
+                "answer_no": "Kwa ujumla dhamana za fedha (hisa, hatifungani, vipande) ni rasilimali ambazo zinagawanyika na kuuzika kwa urahisi. Kutokana na urahisi huo, dhamana zinaweza kuwekwa rehani kwa ajili ya kupata mkopo kutoka taasisi za fedha. Wawekezaji kwenye hisa wanapata gawio ikiwa kampuni itakuwa imepata faida.\n Wanahisa pia huweza kupata faida itokanayo na ongezeko la thamani iwapo bei ya hisa itaongezeka kwenye soko la hisa. Ongezeko la thamani ni tofauti ya bei ya kununulia hisa na bei ya kuuzia. Ikiwa bei ya kuuza ni ndogo kuliko bei ya kununulia, mwanahisa anapata hasara. Uwekezaji kwenye hisa hauna uhakika wa gawio kwa sababu gawio linategemea faida ya kampuni. Kwa upande wa hatifungani, riba inayolipwa inajulikana tangu mwanzo kwa sababu ni asilimia ya deni lote. Riba inayolipwa inaweza kuwa ya kubadilikabadilika au isiyobadilika. Wawekezaji kwenye hatifungani wanaoamua kukaa nazo hadi zitakapopevuka wanajua kiwango cha faida yao tangu wanapowekeza.\n Hatifungani pia zina ongezeko la thamani. Kwa upande wa vipande, faida inategemea aina ya mpango. Vipande ni sehemu ya umiliki kwenye mifuko ya uwekezaji wa pamoja. Tofauti na hisa vipande vinajumuisha mseto wa uwekezaji wa vitega uchumi mbali mbali ambavyo fedha zilikusanywa kwa ajili ya uwekezaji wa pamoja zinawekezwa.\n Kama ni mapango wa kukua, mwekezaji anategemea kufaidika kutokana na kukua kwa thamani ya vipande. Wawekezaji wanatakiwa kujua kuwa bei ya vipande inabadilika mara mwa mara. Kama mpango wa uwekezaji wa pamoja ni wa mapato, mwekezaji anafaidika kutokana na mgao wa mapato ya mpango huu."
+            },
+            {
+                "question": "Je wajua, Kuna tofauti gani kati ya Hisa na Kipande?",
+                "answer_yes": "Vizuri! Hisa ni sehemu ya umiliki katika kampuni. Na kipande ni sehemu ya umiliki katika mfuko wa uwekezaji wa pamoja kwa maana ya Amana ya Kikundi. Hisa ni sehemu ya umiliki wa kampuni fulani wakati kipande kinajumuisha mseto wa uwekezaji katika vitega uchumi mbali mbali.",
+                "answer_no": "Hisa ni sehemu ya umiliki katika kampuni. Na kipande ni sehemu ya umiliki katika mfuko wa uwekezaji wa pamoja kwa maana ya Amana ya Kikundi. Hisa ni sehemu ya umiliki wa kampuni fulani wakati kipande kinajumuisha mseto wa uwekezaji katika vitega uchumi mbali mbali."
+            },
+            {
+                "question": "Je wafahamu, namna ya kununua au kuuza hisa zako?",
+                "answer_yes": "Sawa kabisa! Kama unataka kununua hisa ambazo zinauzwa kwa mara ya kwanza, kuna mawakala maalum ambao huwa wamepewa wajibu wa kuuza hisa kwenye soko la awali. Mwekezaji anatakiwa kujaza fomu ya maombi na kukabidhi pesa kwa wakala kulingana na idadi ya hisa anazotaka kununua na atapewa stakabadhi pamoja na kikonyo cha fomu yako kama uthibitisho. Kama mwekezaji anataka kununua hisa kutoka katika soko la pili (DSE), basi itabidi awaone madalali wa soko la hisa. Atawaeleza mahitaji yake.Dalali atatoa ushauri lakini uamuzi ni wake.",
+                "answer_no": "Kama unataka kununua hisa ambazo zinauzwa kwa mara ya kwanza, kuna mawakala maalum ambao huwa wamepewa wajibu wa kuuza hisa kwenye soko la awali. Mwekezaji anatakiwa kujaza fomu ya maombi na kukabidhi pesa kwa wakala kulingana na idadi ya hisa anazotaka kununua na atapewa stakabadhi pamoja na kikonyo cha fomu yako kama uthibitisho. Kama mwekezaji anataka kununua hisa kutoka katika soko la pili (DSE), basi itabidi awaone madalali wa soko la hisa. Atawaeleza mahitaji yake.Dalali atatoa ushauri lakini uamuzi ni wake."
+            },
+            {
+                "question": "Je unafahamu madalali wa soko la hisa wanapatikana wapi?",
+                "answer_yes": "Kuwa fiti zaidi✊ Madalali wa soko la hisa kwa sasa wapo Dar es Salaam. Lakini, kutokana na kukua kwa teknolojia na utumiaji wa mawakala, wawekezaji kutoka sehemu mbalimbali za nchi wanaweza kupata huduma ya madalali bila kulazimika kuja Dar es Salaam. Ni kweli wawekezaji walio nje ya Dar es Salaam wanawekeza kwa gharama kubwa zaidi ukilinganisha na wenzao walio Dar es Salaam kutokana na muda, gharama za posta, gharama za kutuma au kutumiwa fedha n.k. Juhudi zinafanyika ili kuweza kuwafikishia Watanzania huduma hii kulingana na upatikanaji wa biashara na kukua kwa teknolojia kwa sababu kampuni za udalali zinaendeshwa kwa misingi ya kibiashara.",
+                "answer_no": "Madalali wa soko la hisa kwa sasa wapo Dar es Salaam. Lakini, kutokana na kukua kwa teknolojia na utumiaji wa mawakala, wawekezaji kutoka sehemu mbalimbali za nchi wanaweza kupata huduma ya madalali bila kulazimika kuja Dar es Salaam. Ni kweli wawekezaji walio nje ya Dar es Salaam wanawekeza kwa gharama kubwa zaidi ukilinganisha na wenzao walio Dar es Salaam kutokana na muda, gharama za posta, gharama za kutuma au kutumiwa fedha n.k. Juhudi zinafanyika ili kuweza kuwafikishia Watanzania huduma hii kulingana na upatikanaji wa biashara na kukua kwa teknolojia kwa sababu kampuni za udalali zinaendeshwa kwa misingi ya kibiashara."
+            },
+            {
+                "question": "Je unafahamu, ni kwa nini tunahitaji madalali ili kununua au kuuza hisa?",
+                "answer_yes": "Safi!  Kila soko lina taratibu zake, masoko ya mitaji yanahusisha fedha nyingi hivyo ni vyema kuweka taratibu zinazohakikisha uwazi na haki. Madalali hawa ni wataalam katika masoko haya. Wanasaidia kuuza na kununua hisa pamoja na kutoa elimu kwa wawekezaji. Kwa ufupi kuwepo kwa madalali kunawezesha kuwepo na utaratibu na mpangilio mzuri wa mnada na kunapunguza uwezekano wa vitendo vya udanganyifu ambavyo vingeweza kufanywa na wajanja wachache kama kila mtu angeruhusiwa kwenda moja kwa moja kwenye soko la hisa.",
+                "answer_no": "Kila soko lina taratibu zake, masoko ya mitaji yanahusisha fedha nyingi hivyo ni vyema kuweka taratibu zinazohakikisha uwazi na haki. Madalali hawa ni wataalam katika masoko haya. Wanasaidia kuuza na kununua hisa pamoja na kutoa elimu kwa wawekezaji. Kwa ufupi kuwepo kwa madalali kunawezesha kuwepo na utaratibu na mpangilio mzuri wa mnada na kunapunguza uwezekano wa vitendo vya udanganyifu ambavyo vingeweza kufanywa na wajanja wachache kama kila mtu angeruhusiwa kwenda moja kwa moja kwenye soko la hisa."
+            },
+            {
+                "question": "Je wajua,unaweza kutumia hisa zako kama rehani ya kupata mkopo wa benki?",
+                "answer_yes": "Ni kweli, kumekuwa na ongezeko la taasisi za fedha kukubali hisa hasa za kampuni zilizoorodheshwa kwenye soko la hisa kama rehani kwa ajili ya kutoa mikopo. Utaratibu wa kuweka hisa au vipande kuwa rehani umedhihirisha kuwa ni wenye manufaa na rahisi kwa mkopaji na mkopeshaji kwa sababu inachukua muda mfupi, uko wazi, hakuna gharama za kuthaminisha na kuna uwezekano mdogo wa kufanya udanganyifu. Hatifungani za serikali, hawala za serikali na hatifungani za makampuni zilizoorodheshwa kwenye soko la hisa zinakubaliwa na taasisi nyingi zinazokopesha kama rehani ya mikopo.\nSasa umekua Fiti kwenye suala la uwekezaji!",
+                "answer_no": "Ni kweli, kumekuwa na ongezeko la taasisi za fedha kukubali hisa hasa za kampuni zilizoorodheshwa kwenye soko la hisa kama rehani kwa ajili ya kutoa mikopo. Utaratibu wa kuweka hisa au vipande kuwa rehani umedhihirisha kuwa ni wenye manufaa na rahisi kwa mkopaji na mkopeshaji kwa sababu inachukua muda mfupi, uko wazi, hakuna gharama za kuthaminisha na kuna uwezekano mdogo wa kufanya udanganyifu. Hatifungani za serikali, hawala za serikali na hatifungani za makampuni zilizoorodheshwa kwenye soko la hisa zinakubaliwa na taasisi nyingi zinazokopesha kama rehani ya mikopo.\nSasa umekua Fiti kwenye suala la uwekezaji!"
+            }
+
+        ]
+    },
+    {
+        "topic": "kupangilia bajeti",
+        "questions": [
+            {
+                "question": "Leo tutaongelea kuhusu umuhimu wa kupangilia matumizi ya fedha zako. Je unajua kuweka Bajeti ni nini?",
+                "answer_yes": "Vizuri! Bajeti ni makadirio ya mapato na matumizi ya Fedha zako katika kipindi fulani ili kuhakikisha mipango inafanikiwa kwa wakati uliotarajiwa.",
+                "answer_no": "Bajeti ni makadirio ya mapato na matumizi ya fedha zako katika kipindi fulani ili kuhakikisha mipango inafanikiwa kwa wakati uliotarajiwa."
+            },
+            {
+                "question": "Je! Unajua umuhimu wa kupangilia bajeti yako?",
+                "answer_yes": "Vizuri! Ni kweli kabisa, Kupangilia bajeti ni hatua muhimu katika kusimamia fedha kwa ufanisi, iwe ni kwa mtu binafsi, familia, au taasisi. Bajeti husaidia kupanga mapato na matumizi ili kuhakikisha fedha zinatumika kwa uangalifu na kufanikisha malengo yaliyowekwa.\nPia Bajetu husaudia kuepuka gharama zisizo za lazima na kuhakikisha fedha zinatumika kwa vipaumbele vilivyoainishwa. Pia, inasaidia katika kuhifadhi akiba kwa ajili ya dharura, uwekezaji, au malengo ya muda mrefu.\nBajeti husaidia kuepuka madeni yasiyo ya lazima, hivyo kuepusha athari za kifedha zinazoweza kuathiri ustawi wa mtu au taasisi. Bajeti pia inawezesha kufanikisha malengo ya kifedha kama vile kununua mali, kuwekeza, au kupanua biashara.\nKupanga bajeti kunasaidia kuimarisha nidhamu ya kifedha kwa kuzingatia matumizi bora ya fedha, hivyo kuleta utulivu wa kifedha kwa muda mrefu. Kwa ujumla, bajeti ni nyenzo muhimu inayosaidia mtu binafsi, familia, au taasisi kuwa na maisha ya kifedha yenye uwiano na mafanikio.\nWahenga wanasema, Mtumiaji bila hesabu, hujikuta kwenye tabu!",
+                "answer_no": "Ngoja nikujuze! Kupangilia bajeti ni hatua muhimu katika kusimamia fedha kwa ufanisi, iwe ni kwa mtu binafsi, familia, au taasisi. Bajeti husaidia kupanga mapato na matumizi ili kuhakikisha fedha zinatumika kwa uangalifu na kufanikisha malengo yaliyowekwa.\nPia Bajetu husaudia kuepuka gharama zisizo za lazima na kuhakikisha fedha zinatumika kwa vipaumbele vilivyoainishwa. Pia, inasaidia katika kuhifadhi akiba kwa ajili ya dharura, uwekezaji, au malengo ya muda mrefu.\nBajeti husaidia kuepuka madeni yasiyo ya lazima, hivyo kuepusha athari za kifedha zinazoweza kuathiri ustawi wa mtu au taasisi. Bajeti pia inawezesha kufanikisha malengo ya kifedha kama vile kununua mali, kuwekeza, au kupanua biashara.\nKupanga bajeti kunasaidia kuimarisha nidhamu ya kifedha kwa kuzingatia matumizi bora ya fedha, hivyo kuleta utulivu wa kifedha kwa muda mrefu. Kwa ujumla, bajeti ni nyenzo muhimu inayosaidia mtu binafsi, familia, au taasisi kuwa na maisha ya kifedha yenye uwiano na mafanikio.\nWahenga wanasema, Mtumiaji bila hesabu, hujikuta kwenye tabu!!"
+            },
+            {
+                "question": "Je, Ungependa kujua zaidi, kuhusu mambo muhimu katika upangaji wa Bajeti? ",
+                "answer_yes": "Ngoja nikufahamishe! Yafuatayo ni mambo Matano muhimu ya kuzingatia katika Ungaji wa Bajeti:\n1.Mapato - Fedha unazopata, ikiwa ni pamoja na mshahara, kipato cha ziada, au vyanzo vingine vya mapato.\n2.Matumizi - Fedha unazotumia kwa mahitaji ya msingi (kama makazi, chakula, na huduma za msingi) na matumizi ya hiari (kama burudani na likizo).\n3.Akiba - Kutenga kiasi cha fedha kwa mahitaji ya baadaye, dharura, au malengo maalum (mfano, kununua nyumba au kustaafu).\n4.Usimamizi wa madeni - Kupanga namna ya kulipa mikopo au madeni ya kadi ya mkopo na kuepuka kuongeza madeni mapya.\n5.Malengo ya kifedha - Kuweka malengo ya muda mfupi na mrefu (mfano, kuokoa kwa ajili ya mfuko wa dharura, kununua gari, au kuwekeza kwa ajili ya kustaafu).",
+                "answer_no": "Umetisha👍 Yafuatayo ni mambo Matano muhimu ya kuzingatia katika Ungaji wa Bajeti:\n1.Mapato\n2.Matumizi\n3.Akiba\n4.Usimamizi wa madeni\n5.Malengo ya kifedha"
+
+            },
+            {
+                "question": "Je, ungependa kujua zaidi kuhusu hatua 4 za kupanga Bajeti yako?",
+                "answer_yes": "Hatua za kuandaa bajeti yako ni:\nHatua ya 1: Kadiria jumla ya mapato unayotarajia kupokea kwa kipindi fulani. Jumuisha vyanzo vyote vya mapato unavyotarajia kupata. Unaweza kupanga bajeti kwa wiki, kila baada ya wiki mbili, au kwa mwezi—kulingana na mara ngapi unapata kipato.\nHatua ya 2: Kadiria matumizi yako, yaani fedha utakazohitaji kwa mahitaji ya kila siku kama chakula, ada, bidhaa za kujihudumia, na mavazi.\nHatua ya 3: Amua ni kiasi gani cha mapato yako unataka kuweka kama akiba kwa mahitaji ya baadaye. Wataalamu wengi wanapendekeza kuweka akiba ya asilimia 10 ya kipato chako kinachoweza kutumika. Kuwa na akiba kutakusaidia kugharamia mahitaji ya baadaye, iwe yanayotarajiwa au yasiyotarajiwa.\nHatua ya 4: Hakikisha bajeti yako inakuwa na uwiano mzuri. Ikiwa matumizi yako pamoja na akiba yanazidi mapato yako, fanya marekebisho ili kuhakikisha uwiano. Unaweza kuahirisha ununuzi wa vitu visivyo vya lazima au kupunguza kiasi cha akiba kwa muda mfupi. Ikiwa huwezi kupunguza matumizi, utahitaji kutafuta njia za kuongeza kipato chako.",
+                "answer_no": "Vizuri lakini si vibaya ukifahamu hatua hizo nazo ni:\nHatua ya 1: Kadiria jumla ya mapato unayotarajia kupokea kwa kipindi fulani. Jumuisha vyanzo vyote vya mapato unavyotarajia kupata. Unaweza kupanga bajeti kwa wiki, kila baada ya wiki mbili, au kwa mwezi—kulingana na mara ngapi unapata kipato.\nHatua ya 2: Kadiria matumizi yako, yaani fedha utakazohitaji kwa mahitaji ya kila siku kama chakula, ada, bidhaa za kujihudumia, na mavazi.\nHatua ya 3: Amua ni kiasi gani cha mapato yako unataka kuweka kama akiba kwa mahitaji ya baadaye. Wataalamu wengi wanapendekeza kuweka akiba ya asilimia 10 ya kipato chako kinachoweza kutumika. Kuwa na akiba kutakusaidia kugharamia mahitaji ya baadaye, iwe yanayotarajiwa au yasiyotarajiwa.\nHatua ya 4: Hakikisha bajeti yako inakuwa na uwiano mzuri. Ikiwa matumizi yako pamoja na akiba yanazidi mapato yako, fanya marekebisho ili kuhakikisha uwiano. Unaweza kuahirisha ununuzi wa vitu visivyo vya lazima au kupunguza kiasi cha akiba kwa muda mfupi. Ikiwa huwezi kupunguza matumizi, utahitaji kutafuta njia za kuongeza kipato chako."
+            }
+        ]
+    }
+]

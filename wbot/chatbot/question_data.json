@@ -1,0 +1,37 @@
+[
+  {
+    "topic": "kuweka akiba",
+    "questions": [
+      {
+        "question": "Je, huwa unaweka sehemu ya kipato chako kama akiba kila mwezi?",
+        "answer_yes": "Vizuri sana! Kuweka akiba kila mwezi ni hatua nzuri ya kifedha.",
+        "answer_no": "Jaribu kuanza hata kwa kidogo. Akiba huokoa siku za dharura."
+      },
+      {
+        "question": "Una akaunti maalum ya akiba benki?",
+        "answer_yes": "Hongera! Akaunti maalum husaidia kudhibiti matumizi.",
+        "answer_no": "Fungua akaunti ya akiba kwa malengo yako ya kifedha."
+      }
+    ]
+  },
+  {
+    "topic": "kuwekeza",
+    "questions": [
+      {
+        "question": "Umeshawahi kuwekeza kwenye biashara au hisa?",
+        "answer_yes": "Kuwekeza ni njia nzuri ya kukuza kipato.",
+        "answer_no": "Fikiria kuanza kidogo, hata na elimu juu ya uwekezaji."
+      }
+    ]
+  },
+  {
+    "topic": "kupangilia bajeti",
+    "questions": [
+      {
+        "question": "Je, huwa unaandaa bajeti kila mwezi?",
+        "answer_yes": "Vizuri sana! Bajeti huleta nidhamu ya matumizi.",
+        "answer_no": "Andaa bajeti kusaidia kudhibiti fedha zako vizuri zaidi."
+      }
+    ]
+  }
+]
